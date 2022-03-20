@@ -92,6 +92,6 @@ Fork仓库
 
 <img src="https://i.imgur.com/UJ40tOU.png" alt="image-20210426223627630" style="zoom:50%;" />
 
-然后就是`Crate Pull request`
+然后就是`Create Pull request`
 
 ![image-20210426223810922](https://i.imgur.com/OLfBk7y.png)
